@@ -1,0 +1,143 @@
+ID,Repositories,About,Tag,Language
+1,https://github.com/xiecat/fofax,fofa query tool,red,Golang
+2,https://github.com/projectdiscovery/nuclei,vulnerability scanner,vulnscan,Golang
+3,https://github.com/projectdiscovery/simplehttpserver,Go alternative of python SimpleHTTPServer,other,Golang
+4,https://github.com/FunnyWolf/Viper,Redteam operation platform with webui,c2,
+5,https://github.com/Adminisme/ServerScan,ServerScan,Intranetscan,Golang
+6,https://github.com/jweny/pocassist,Vulnerability Scan,vulnscan,Golang
+7,https://github.com/awake1t/linglong,,vulnscan,Golang
+8,https://github.com/b1gcat/DarkEye,,Intranetscan,Golang
+9,https://github.com/s7ckTeam/Glass,,fingerprint,Python3
+10,https://github.com/0xDanielLopez/TweetFeed,Collecting IOCs posted on Twitter,blue,
+11,https://github.com/rednaga/APKiD,PEiD for Android,android,Python3
+12,https://github.com/Yamato-Security/WELA,Windows Event Log Analyzer,blue,Powershell
+13,https://github.com/shmilylty/netspy,,Intranetscan,Golang
+14,https://github.com/Neo23x0/Loki,Simple IOC and Incident Response Scanner,blue,Python3
+15,https://github.com/sairson/Yasso,,Intranetscan,Golang
+16,https://github.com/shadow1ng/fscan,Vulnerability Scan,Intranetscan,Golang
+17,https://github.com/ExpLangcn/WanLi,,red,Python3
+18,https://github.com/boy-hack/ksubdomain,subdomain brute force tool,subdomain,Golang
+19,https://github.com/projectdiscovery/subfinder,subdomain brute force tool,subdomain,Golang
+20,https://github.com/projectdiscovery/httpx,HTTP toolkit,red,Golang
+21,https://github.com/Apr4h/CobaltStrikeScan,CobaltStrikeScan,blue,C#
+22,https://github.com/Sentinel-One/CobaltStrikeParser,,blue,Python3
+23,https://github.com/phith0n/xray-poc-generation,xray-poc-generation,other,JavaScript
+24,https://github.com/odedshimon/BruteShark,Network Analysis Tool,blue,C#
+25,https://github.com/HatBoy/Pcap-Analyzer,Pcap-Analyzer,blue,Python3
+26,https://github.com/yaklang/yakit,Cyber Security ALL-IN-ONE Platform,,
+27,https://github.com/lxflxfcl/monitor,,other,Python3
+28,https://github.com/w-digital-scanner/w12scan,A simple asset discovery engine for cybersecurity,asset,Python3
+29,https://github.com/TophantTechnology/ARL,Asset Reconnaissance Lighthouse,asset,Python3
+30,https://github.com/loecho-sec/ARL-Finger-ADD,ARL-Finger,other,Python3
+31,https://github.com/wgpsec/fofa_viewer,A simple FOFA client,other,Java
+32,https://github.com/4x99/code6,,other,PHP
+33,https://github.com/msfisgood/Nmap_tools,,other,Python3
+34,https://github.com/7dog7/masscan_to_nmap,,red,Python2
+35,https://github.com/jfmaes/SharpLNKGen-UI,UI for creating LNKs,red,C#
+36,https://github.com/utkusen/wholeaked,,,Golang
+37,https://github.com/ScriptKid-Beta/WebBatchRequest,,asset,Java
+38,https://github.com/Astartgo/easy-for-webscan,,asset,Java
+39,https://github.com/syncthing/syncthing,Open Source Continuous File Synchronization,filemanager,Golang
+40,https://github.com/cloudreve/Cloudreve,Self-hosted file management,filemanager,Golang
+41,https://github.com/nullt3r/jfscan,Super fast port scanning & service discovery using Masscan and Nmap,red,Python3
+42,https://github.com/phper-hejing/insane,,,Golang
+43,https://github.com/Bywalks/SSH_Spider,,red,Python3
+44,https://github.com/momosecurity/FindSomething,,asset,JavaScript
+45,https://github.com/test502git/awvs14-scan,,red,Python3
+46,https://github.com/gloxec/CrossC2,generate CobaltStrike's cross-platform payload,c2,
+47,https://github.com/soufianetahiri/RansomwareMonitor,A ransomware group monitoring bot written in C#.,,C#
+48,https://github.com/pirate/WebRTCChat,Pure Browser To Browser Chat (STUN & ICE Servers optional),chat,JavaScript
+49,https://github.com/thewhiteh4t/seeker,Accurately Locate Smartphones using Social Engineering,,
+50,https://github.com/LinWin-Cloud/setool-master,,,
+51,https://github.com/ruanluyu/FourierCircleDrawing,Use fourier transform to draw any pattern,other,
+52,https://github.com/jan-bar/EncryptionFile,EncryptionFile,filemanager,Golang
+53,https://github.com/guyoung/CaptfEncoder,Encoder tool,,
+54,https://github.com/OWASP/Amass,In-depth Attack Surface Mapping and Asset Discovery,asset,Golang
+55,https://github.com/flowchartsman/deadman,A usb-based dead man's switch,other,Golang
+56,https://github.com/luismqueral/jumpcityrecords,a generative noise label bot,other,Python2
+57,https://github.com/Debuggingss/py-webdriver-torso,Render videos like Webdriver Torso,other,Python3
+58,https://github.com/cisagov/RedEye,RedEye is a visual analytic tool supporting Red & Blue Team operations,blue,
+59,https://github.com/Eilonh/s3crets_scanner,Hunting For Secrets Uploaded To Public S3 Buckets,red,Python3
+60,https://github.com/r0oth3x49/ghauri,SQL injection tool,sqli,Python3
+61,https://github.com/RischardV/emoji-shellcoding,Emoji shellcoding tools,,
+62,https://github.com/mbrg/power-pwn,,,Python3
+63,https://github.com/rartin/tools,,,
+64,https://github.com/fastfire/deepdarkCTI,,,
+65,https://github.com/bitepeng/b0pass,LAN large file transfer tool,filemanager,Golang
+66,https://github.com/ffuf/ffuf,Fast web fuzzer written in Go,asset,Golang
+67,https://github.com/filebrowser/filebrowser,Web File Browser,filemanager,Golang
+68,https://github.com/broken5/WebAliveScan,WebAliveScan,asset,Python3
+69,https://github.com/broken5/bscan,bscan,asset,Golang
+70,https://github.com/graynjo/Heimdallr,,,JavaScript
+71,https://github.com/YDHCUI/manjusaka,,c2,
+72,https://github.com/nccgroup/ABPTTS,TCP tunneling over HTTP/HTTPS for web application servers.,proxy,Python2
+73,https://github.com/projectdiscovery/katana,A next-generation crawling and spidering framework.,crawl,Golang
+74,https://github.com/Privoce/vocechat-web,VoceChat Web App,chat,
+75,https://github.com/OJ/gobuster,"Directory/File, DNS and VHost busting tool written in Go",bruteforce,Golang
+76,https://github.com/s0md3v/Arjun,HTTP parameter discovery suite.,red,Python3
+77,https://github.com/makoto56/penetration-suite-toolkit,,,
+78,https://github.com/bin-maker/EasyFish,,fishing,
+79,https://github.com/9emin1/charlotte,c++ fully undetected shellcode launcher,bypass,C++
+80,https://github.com/sigoden/dufs,file server,filemanager,Rust
+81,https://github.com/usememos/memos,memos,other,Golang
+82,https://github.com/vastsa/FileCodeBox,File Express Cabinet,filemanager,Python3
+83,https://github.com/svenstaro/miniserve,serve some files over HTTP,filemanager,Rust
+84,https://github.com/darkr4y/geacon,Practice Go programming and implement CobaltStrike's Beacon in Go,,Golang
+85,https://github.com/Conan924/goby-wiki,goby vuln wiki,other,Java
+86,https://github.com/mazen160/bfac,Backup File Artifacts Checker,asset,Golang
+87,https://github.com/mazen160/shennina,Automating Host Exploitation with AI,,Python3
+88,https://github.com/niudaii/crack,Weak Password Blaster Tool,bruteforce,Golang
+89,https://github.com/niudaii/zpscan,information gathering tool,asset,Golang
+90,https://github.com/LittleBear4/OA-EXPTOOL,OA vulnscan,vulnscan,Python3
+91,https://github.com/carlospolop/PEASS-ng,Privilege Escalation Awesome Scripts SUITE,,C#
+92,https://github.com/SafeGroceryStore/MDUT,Multiple Database Utilization Tools,red,Java
+93,https://github.com/hahwul/dalfox,open source XSS scanning tool,vulnscan,Golang
+94,https://github.com/TryGOTry/CobaltStrike_Cat_4.5,,c2,
+95,https://github.com/localsend/localsend,An open source cross-platform alternative to AirDrop,filemanager,Dart
+96,https://github.com/guchangan1/All-Defense-Tool,,,
+97,https://github.com/hahwul/WebHackersWeapons,awesome tools,,
+98,https://github.com/s0md3v/XSStrike,Advanced XSS Detection Suite,vulnscan,Python3
+99,https://github.com/HavocFramework/Havoc,Havoc Framework,c2,Golang
+100,https://github.com/cube0x0/MiniDump,LSASS dumps,credential,C#
+101,https://github.com/bb00/zer0dump,CVE-2020-1472 Zerologon,,Python3
+102,https://github.com/EdgeSecurityTeam/EHole,EHole,fingerprint,Golang
+103,https://github.com/qianxiao996/FrameScan-GUI,,vulnscan,Python3
+104,https://github.com/f0ng/poc2jar,,,Java
+105,https://github.com/woodpecker-framework/woodpecker-framework-release,,vulnscan,Java
+106,https://github.com/BlackINT3/OpenArk,open source anti-rookit,ark,C++
+107,https://github.com/inbug-team/InScan,,Intranetscan,Golang
+108,https://github.com/Arbor01/AnScan,,asset,
+109,https://github.com/taomujian/linbing,,vulnscan,
+110,https://github.com/SkewwG/henggeFish,,fishing,
+111,https://github.com/coco413/SecMind,,other,
+112,https://github.com/SecWiki/sec-chart,,other,
+113,https://github.com/JKme/cube,,Intranetscan,Golang
+114,https://github.com/edoardottt/cariddi,,crawl,Golang
+115,https://github.com/knight0x07/PoC-Malware-TTPs,,c2load,
+116,https://github.com/mgeeky/ProtectMyTooling,,,
+117,https://github.com/WangYihang/Platypus,,shellmanager,Golang
+118,https://github.com/ehang-io/nps,,proxy,Golang
+119,https://github.com/fatedier/frp,,proxy,Golang
+120,https://github.com/snail007/goproxy,,proxy,Golang
+121,https://github.com/EddieIvan01/iox,Tool for port forwarding & intranet proxy,proxy,Golang
+122,https://github.com/ginuerzh/gost,a simple tunnel written in golang,proxy,Golang
+123,https://github.com/Dliv3/Venom,A Multi-hop Proxy for Penetration Testers,proxy,Golang
+124,https://github.com/ph4ntonn/Stowaway,Multi-hop Proxy Tool for pentesters,proxy,Golang
+125,https://github.com/FunnyWolf/pystinger,,proxy,Python3
+126,https://github.com/L-codes/Neo-reGeorg,,proxy,Python3
+127,https://github.com/esrrhs/pingtunnel,,proxy,Golang
+128,https://github.com/nccgroup/SocksOverRDP,,proxy,C++
+129,https://github.com/P1-Team/AlliN,A flexible scanner,asset,Python3
+130,https://github.com/redtoolskobe/scaninfo,fast scan for redtools,Intranetscan,Golang
+131,https://github.com/lcvvvv/kscan,Vulnerability Scan,Intranetscan,Golang
+132,https://github.com/fortra/impacket,Impacket is a collection of Python classes for working with network protocols.,,Python3
+133,https://github.com/Porchetta-Industries/CrackMapExec,A swiss army knife for pentesting networks,,Python3
+134,https://github.com/rootclay/WMIHACKER,A Bypass Anti-virus Software Lateral Movement Command Execution Tool,,VBScript
+135,https://github.com/ropnop/kerbrute,A tool to perform Kerberos pre-auth bruteforcing,,Golang
+136,https://github.com/opensec-cn/conote-community,Vulnerability Scan,,
+137,https://github.com/mitre/caldera,Automated Adversary Emulation Platform,,Python3
+138,https://github.com/SecurityRiskAdvisors/VECTR,,,
+139,https://github.com/bigb0x/ssh-log-auditor,ssh-log-auditor,blue,Python3
+140,https://github.com/p0dalirius/ApacheTomcatScanner,A python script to scan for Apache Tomcat server vulnerabilities.,vulnscan,Python3
+141,https://github.com/bytedance/appshark,,android,
+142,https://github.com/1n7erface/PocList,,vulnscan,Java
